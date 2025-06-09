@@ -1,0 +1,13 @@
+maria:1200
+joao:100
+ana:40
+carlos:28
+beatriz:31
+lucas:45
+fernanda:29
+paulo:33
+juliana:40
+roberto:36
+camila:37
+jhonatan:3
+jhenifer:0
